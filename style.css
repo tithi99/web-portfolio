@@ -1,0 +1,26 @@
+body{
+    font-family: 'poppins',sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+.name-highlight{
+    color: blueviolet;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half img{
+    width: 100%;
+}
+.top-banner{
+    border: 3 px solid red;
+    background-image: url("images/top-banner.png");
+}
+section{
+    height: 500%;
+}
