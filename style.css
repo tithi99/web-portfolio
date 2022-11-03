@@ -26,3 +26,42 @@ h1{
 section{
     height: 500px;
 }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(50deg,brown, rgb(85, 54, 54));
+    padding: 10px 20px;
+    border-radius:30px;
+    color: blue;
+    font-weight: 500%;
+}
+.two{
+    color: brown;
+}
+.dream{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 60%;
+}
+.again{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full{
+    border-left: 7px solid;
+    border-image: linear-gradient(brown, rgb(156, 122, 122));
+    border-image-slice: 2;
+}
+#fill{
+    border-left: 7px solid;
+    border-image: linear-gradient(purple, rgb(212, 153, 214));
+    border-image-slice: 2;
+}
+footer p{
+    text-align: center;
+}
